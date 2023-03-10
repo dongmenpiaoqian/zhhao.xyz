@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>http://zhhao.xyz/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
+            <atom:link href="http://zhhao.xyz/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title></title>
+    <link>http://zhhao.xyz/posts/fisrt-blog/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://zhhao.xyz/posts/fisrt-blog/</guid>
+    <description><![CDATA[cat ./content/posts/fisrt-blog.md
+&mdash; title: &ldquo;Fisrt Blog&rdquo; date: 2022-04-16T11:47:19+08:00 draft: true &mdash; #示例fisrt-blog.md cat ./content/posts/fisrt-blog.md
+&mdash; title: &ldquo;Fisrt Blog&rdquo; date: 2022-04-16T11:47:19+08:00 draft: false &mdash; # this is a blog welcome to my blog blalalalalala&hellip;&hellip;.. 这里插入一张网上的图片  End ]]></description>
+</item>
+</channel>
+</rss>
